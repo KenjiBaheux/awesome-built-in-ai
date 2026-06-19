@@ -1,0 +1,38 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  link-validator:
+    name: Validate Hyperlinks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in README.md
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          file-path: './README.md'
+          config-file: 'mlc_config.json'
+
+      - name: Check links in CONTRIBUTING.md
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          file-path: './CONTRIBUTING.md'
+          config-file: 'mlc_config.json'
+
+      - name: Check links in archive directory
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          folder-path: './archive'
+          config-file: 'mlc_config.json'
