@@ -1,4 +1,4 @@
-# Awesome Built-in AI
+# Awesome Built-in AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated, chronological directory of cool projects, tools, presentations, and guides leveraging native, client-side AI APIs built directly into the web platform.
 
 [Built-in AI APIs](https://developer.chrome.com/docs/ai/built-in-apis) such as the Prompt, Summarizer, and Translator APIs enable zero-inference-cost execution, absolute user privacy by design, and instant local execution without API keys.
