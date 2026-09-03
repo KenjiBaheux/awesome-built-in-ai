@@ -54,6 +54,7 @@
 * [Built-in AI Skills.md](https://github.com/GoogleChromeLabs/web-ai-demos/tree/main/built-in-ai-skills-md-agent-md) - An npm package that automatically teaches your AI agent about the latest Built-in AI APIs and their polyfills. [As of: 2026.06]
 * [Web-AI-SDK 0.5](https://web-ai-sdk.dev/) - Developer abstraction wrapper for browser built-in Writer, Rewriter, Proofreader and Prompt APIs. [As of: 2026.06]
 * [Nano Prompt UI Playground](https://github.com/theodedra/nano-prompt-ui/) - Nano Prompt UI is a side panel chat interface for built-in AI APIs. [As of: 2026.06]
+* [Web AI Agent Skills](https://github.com/webmaxru/web-ai-agent-skills) - A maintained collection of agent skills for building with browser-native Prompt, Language Detector, Translator, Writing Assistance, Proofreader, WebMCP, and WebNN APIs. [As of: 2026.09]
 
 
 ## Media: Presentations, Videos & Blogs
