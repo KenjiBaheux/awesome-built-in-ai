@@ -44,6 +44,13 @@
 * [Listen-Up Web to Podcast Converter](https://github.com/Lun75/Listen-Up-Web-to-Podcast-Convertor-V1/) - Web-to-podcast audio generation tool orchestrating using Summarizer and Prompt API. [As of: 2026.06]
 * [Chrome History Copilot](https://github.com/simoncpu/chrome-history-copilot/) -  Chrome extension using built-in AI to make your browsing history truly searchable and queryable in natural language, while keeping everything private and running locally on your device. [As of: 2026.06]
 * [iTab New Tab Dashboard](https://github.com/TIMMLOPK/iTab/blob/1b8df1cf0065ef4653f7735536ff6a00acbf1659/offscreen.js) - A Chrome extension combining advanced context memory and AI-powered smart suggestions to help you write, read, translate, and summarize any web content directly in your browser. [As of: 2026.06]
+* [JupyterLab Browser AI](https://github.com/jtpio/jupyterlab-browser-ai) - A JupyterLab and Jupyter Notebook extension powered by Chrome's built-in AI APIs providing an on-device chat provider, multimodal image alt-text generation, audio transcription, notebook markdown proofreading, and file summarization. [As of: 2026.09]
+* [Semantic Sticky Board](https://semantic-sticky-board.yoichiro.dev/) ([GitHub](https://github.com/yoichiro/semantic-sticky-board)) - An interactive spatial brainstorming web app built on the experimental Semantic Embedder API that computes cosine similarity on-device in real time to automatically cluster sticky notes without cloud vector databases. [As of: 2026.08]
+* [AAC Board AI](https://github.com/shayc/aac-board-ai) - An Augmentative and Alternative Communication (AAC) assistive web application leveraging built-in AI APIs for on-device communication support. [As of: 2026.08]
+* [HyperAudio - Intelligent Speaker Store](https://chrome.dev/web-ai-demos/adaptive-ui/) - An e-commerce demo using on-device AI to personalize and adapt a web interface in real time based on user intent. [As of: 2026.06]
+* [Product Number OCR](https://tomayac.github.io/blogccasion-demos/built-in-ai-product-number-ocr/) - Extracts product numbers directly from photos on-device using the multimodal Prompt API. [As of: 2026.06]
+* [Read-Duck](https://github.com/jonny030/Read-Duck) - A browser extension for bilingual reading, local translation, and on-device AI summarization designed for both Google Chrome and Microsoft Edge. [As of: 2026.09]
+* [code.soubiran.dev](https://github.com/Barbapapazes/code.soubiran.dev) - A web tool for creating and sharing syntax-highlighted code images that integrates in-browser AI (`@browser-ai/core`) and an MCP server. [As of: 2026.09]
 
 
 ## Developer Tools
@@ -55,6 +62,9 @@
 * [Web-AI-SDK 0.5](https://web-ai-sdk.dev/) - Developer abstraction wrapper for browser built-in Writer, Rewriter, Proofreader and Prompt APIs. [As of: 2026.06]
 * [Nano Prompt UI Playground](https://github.com/theodedra/nano-prompt-ui/) - Nano Prompt UI is a side panel chat interface for built-in AI APIs. [As of: 2026.06]
 * [Web AI Agent Skills](https://github.com/webmaxru/web-ai-agent-skills) - A maintained collection of agent skills for building with browser-native Prompt, Language Detector, Translator, Writing Assistance, Proofreader, WebMCP, and WebNN APIs. [As of: 2026.09]
+* [Prompt API Observability & Telemetry](https://github.com/rakutenanalytics/web-ai-demos/tree/prompt-api-observability/prompt-api-telemetry) - A proof-of-concept by Rakuten Analytics demonstrating how to instrument `window.LanguageModel` (Prompt API) to emit OpenInference spans and stream traces to OTLP backends like Langfuse or LangSmith. [As of: 2026.08]
+* [Browser AI Toolkit](https://github.com/JaxNext/browser-ai-toolkit) - A unified toolkit wrapping browser built-in AI APIs including the Prompt, Translator, Writer, and Summarizer APIs. [As of: 2026.06]
+* [Spectacular SvelteKit Template](https://github.com/xmlking/spectacular) - A full-stack Turborepo and SvelteKit starter template featuring built-in AI components (Summarizer, Proofreader, and Prompt APIs). [As of: 2026.07]
 
 
 ## Media: Presentations, Videos & Blogs
@@ -67,6 +77,7 @@
 * [2026.05] [Built-in AI and WebMCP – The AI Revolution Right In Your Browser!](https://speakerdeck.com/christianliebel/built-in-ai-and-webmcp-the-ai-revolution-right-in-your-browser) - An architectural overview demonstrating how the Model Context Protocol (MCP) connects local browser-native LLMs directly to client-side developer tooling and databases safely.
 * [2026.06] [In-browser AI Agent Demo with WebMCP and Prompt API](https://untilit.works/break/2fOsKb7hG3ypQ7fWcfWW) - A video recording of a walkthrough session to demo the combination of WebMCP and Prompt API to achieve on site Agent [As of: 2026.06]
 * [2026.06] [Chrome extension to hide news topic with Prompt API](https://x.com/pawelkubiakdev/status/2065852285087777084?s=20) - Built a @googlechrome extension with Prompt API + Gemini Nano 👇 It hides news topics you don&#x27;t care about - fully on-device, no cloud, works offline. #AI #Chrome [As of: 2026.06]
+* [2026.05] [Google I/O 2026 Web AI Talks](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBrquBiQhO2csae4Mi147Go) & [Web AI Summit Talks](https://www.youtube.com/watch?v=360P3ldQQEk&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt) - Official conference talk playlists covering the latest Chrome Built-in AI APIs, client-side model execution, and production case studies. [As of: 2026.06]
 
 
 ### Technical Articles & Blogs
