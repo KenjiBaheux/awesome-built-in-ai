@@ -62,7 +62,7 @@
 * [Web-AI-SDK 0.5](https://web-ai-sdk.dev/) - Developer abstraction wrapper for browser built-in Writer, Rewriter, Proofreader and Prompt APIs. [As of: 2026.06]
 * [Nano Prompt UI Playground](https://github.com/theodedra/nano-prompt-ui/) - Nano Prompt UI is a side panel chat interface for built-in AI APIs. [As of: 2026.06]
 * [Web AI Agent Skills](https://github.com/webmaxru/web-ai-agent-skills) - A maintained collection of agent skills for building with browser-native Prompt, Language Detector, Translator, Writing Assistance, Proofreader, WebMCP, and WebNN APIs. [As of: 2026.09]
-* [Prompt API Observability & Telemetry](https://github.com/rakutenanalytics/web-ai-demos/tree/prompt-api-observability/prompt-api-telemetry) - A proof-of-concept by Rakuten Analytics demonstrating how to instrument `window.LanguageModel` (Prompt API) to emit OpenInference spans and stream traces to OTLP backends like Langfuse or LangSmith. [As of: 2026.08]
+* [Prompt API Observability & Telemetry](https://github.com/rakutenanalytics/web-ai-demos/) - A proof-of-concept by Rakuten Analytics demonstrating how to instrument `window.LanguageModel` (Prompt API) to emit OpenInference spans and stream traces to OTLP backends like Langfuse or LangSmith. [As of: 2026.08]
 * [Browser AI Toolkit](https://github.com/JaxNext/browser-ai-toolkit) - A unified toolkit wrapping browser built-in AI APIs including the Prompt, Translator, Writer, and Summarizer APIs. [As of: 2026.06]
 * [Spectacular SvelteKit Template](https://github.com/xmlking/spectacular) - A full-stack Turborepo and SvelteKit starter template featuring built-in AI components (Summarizer, Proofreader, and Prompt APIs). [As of: 2026.07]
 
